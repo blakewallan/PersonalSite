@@ -1,0 +1,98 @@
+/* Overall page styling */
+body, html {
+  height: 100%;
+}
+
+.btn-primary {
+  background-color: #E80000;
+}
+
+.btn-danger {
+  background-color: #008B8B;
+}
+
+.big-text {
+  font-size: 11em;
+  margin-top: -25px;
+}
+
+.title-text {
+  font-size: 8em;
+  text-align: center;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.section-header {
+  margin-bottom: 3em;
+}
+
+/* Individual page styling */
+.page-home {
+  background:#008B8B;
+  color: white;
+  height: 95%;
+}
+
+.logo {
+  height: 23em;
+}
+
+#about-me-btn {
+  margin-top: 2em;
+}
+
+.leadin {
+  margin-top: 15%;
+}
+
+.page-about {
+  background:#E89B00;
+  color: white;
+  height: 100%;
+}
+
+.page-contact {
+  background:#E89B00;
+  color: white;
+  height: 100%;
+}
+
+.page-projects {
+  background:#008B8B;
+  color: white;
+  text-align: center;
+}
+
+.project {
+  padding-bottom: 5em;
+}
+
+.mockup {
+  height: 25em;
+}
+
+.description {
+  text-align: left;
+}
+
+.tech-list {
+  text-align: left;
+}
+
+.contact {
+  margin-top: 4em;
+  text-align: center;
+}
+
+
+
+
