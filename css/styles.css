@@ -1,6 +1,7 @@
 /* Overall page styling */
 body, html {
   min-height: 100vh;
+  background-size: cover;
 }
 
 .btn-primary {
