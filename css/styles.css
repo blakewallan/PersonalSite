@@ -1,8 +1,4 @@
 /* Overall page styling */
-body, html {
-  min-height: 100vh;
-  background-size: cover;
-}
 
 .btn-primary {
   background-color: #E80000;
@@ -32,14 +28,22 @@ ul {
   padding: 0;
 }
 
+body {
+  font-family: "Century Gothic";
+}
+
 .section-header {
   margin-bottom: 3em;
 }
 
+.navbar {
+  border: none;
+}
+
 /* Individual page styling */
 .page-home {
-  background:#008B8B;
-  color: white;
+  background: white;
+  color: black;
   height: 100vh;
 }
 
@@ -56,20 +60,20 @@ ul {
 }
 
 .page-about {
-  background:#E89B00;
-  color: white;
+  background: white;
+  color: black;
   height: 100vh;
 }
 
 .page-contact {
-  background:#E89B00;
-  color: white;
+  background: white;
+  color: black;
   height: 100vh;
 }
 
 .page-projects {
-  background:#008B8B;
-  color: white;
+  background: white;
+  color: black;
   text-align: center;
 }
 
